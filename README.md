@@ -1,8 +1,8 @@
-👨‍🎓 Sobre mim
+## Sobre mim 👨‍🎓
 
 Sou um desenvolvedor de software, tenho interesses em desenvolvimento web, Big Data, segurança da informação e RPA.
 
-👨‍💻 Habilidades
+Habilidades 👨‍💻 
 
 
 ##
