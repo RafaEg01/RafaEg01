@@ -17,5 +17,5 @@ Sou um desenvolvedor de software, tenho interesses em desenvolvimento web, Big D
 
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeg01&layout=compact)
+
 
